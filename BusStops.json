@@ -1,0 +1,184 @@
+{
+  "routes": {
+    "Route 1": {
+      "route": [
+        {
+          "stop_name": "Queen Square Bus Station",
+          "times": ["09:35", "10:05", "11:35", "15:06", "17:16"]
+        },
+        {
+          "stop_name": "North View, Hall Lane",
+          "times": ["09:47", "10:17", "11:48", "15:19", "17:31"]
+        },
+        {
+          "stop_name": "Edge Lane, St Oswalds St",
+          "times": ["09:57", "10:27", "11:58", "15:30", "17:45"]
+        },
+        {
+          "stop_name": "Woolfall Heath Ave, Calgarth Rd",
+          "times": ["10:14", "10:44", "12:15", "15:45", "18:04"]
+        },
+        {
+          "stop_name": "Huyton Bus Station",
+          "times": ["10:28", "10:58", "12:30", "15:59", "18:17"]
+        },
+        {
+          "stop_name": "Cronton Lane, Pex Hill",
+          "times": ["10:46", "11:16", "12:47", "16:17", "18:32"]
+        },
+        {
+          "stop_name": "Widnes Road, Bank Gardens",
+          "times": ["10:56", "11:26", "12:58", "16:28", "18:42"]
+        },
+        {
+          "stop_name": "Warrington Interchange",
+          "times": ["11:10", "11:40", "13:11", "16:42", "18:53"]
+        }
+      ]
+    },
+    "Route 2": {
+      "route": [
+        {
+          "stop_name": "Sir Thomas Street, Whitechapel",
+          "times": ["09:00", "11:00", "13:30", "15:00", "17:30"]
+        },
+        {
+          "stop_name": "Hamilton Street, Hinson Steeet",
+          "times": ["09:09", "11:09", "13:39", "15:09", "17:39"]
+        },
+        {
+          "stop_name": "Birkenhead Bus Station",
+          "times": ["09:14", "11:14", "13:44", "15:14", "17:45"]
+        },
+        {
+          "stop_name": "New Chester Road, Bridle Road",
+          "times": ["09:46", "11:46", "14:16", "15:46", "18:22"]
+        },
+        {
+          "stop_name": "Cheshire Oaks Way, Outlet Village",
+          "times": ["10:17", "12:17", "14:47", "16:17", "18:55"]
+        },
+        {
+          "stop_name": "Upton Lane, Heath Road",
+          "times": ["10:34", "12:34", "15:00", "16:34", "19:08"]
+        },
+        {
+          "stop_name": "Liverpool Road, The Mill PH",
+          "times": ["10:39", "12:39", "15:04", "16:39", "19:12"]
+        },
+        {
+          "stop_name": "Station Road, Railway Station",
+          "times": ["10:49", "12:49", "15:19", "16:49", "19:22"]
+        }
+      ]
+    },
+    "Route 3": {
+      "route": [
+        {
+          "stop_name": "Liverpool One Bus Station",
+          "times": ["06:40", "08:09", "09:47", "12:41", "16:28"]
+        },
+        {
+          "stop_name": "Kensington, Low Hill",
+          "times": ["06:51", "08:23", "10:01", "12:58", "16:46"]
+        },
+        {
+          "stop_name": "Prescott Road, Swan Street",
+          "times": ["06:59", "08:34", "10:11", "13:08", "16:59"]
+        },
+        {
+          "stop_name": "Liverpool Road, Terminus Road",
+          "times": ["07:13", "08:48", "10:25", "13:23", "17:15"]
+        },
+        {
+          "stop_name": "Liverpool Road, Mitchell Road",
+          "times": ["07:19", "08:55", "10:32", "13:30", "17:23"]
+        },
+        {
+          "stop_name": "Nutgrove Road, Foxwood",
+          "times": ["07:35", "09:14", "10:48", "13:47", "17:41"]
+        },
+        {
+          "stop_name": "Corporation Street, Hall Street",
+          "times": ["07:46", "09:27", "11:01", "14:00", "17:55"]
+        }
+      ]
+    },
+    "Route 4": {
+      "route": [
+        {
+          "stop_name": "Liverpool One Bus Station",
+          "times": ["00:13", "04:40", "12:17", "14:57", "17:39"]
+        },
+        {
+          "stop_name": "Myrtle Street, Sugnall Street",
+          "times": ["00:23", "04:48", "12:29", "15:10", "17:53"]
+        },
+        {
+          "stop_name": "Smithdown Road, Yanwath Street",
+          "times": ["00:29", "04:55", "12:38", "15:20", "18:02"]
+        },
+        {
+          "stop_name": "Allterton Road, Platsville Road",
+          "times": ["00:37", "05:03", "12:49", "15:34", "18:15"]
+        },
+        {
+          "stop_name": "Speke Road, Church Road",
+          "times": ["00:49", "05:16", "13:06", "15:53", "18:31"]
+        },
+        {
+          "stop_name": "Liverpool John Lennon Airport",
+          "times": ["00:58", "05:25", "13:16", "16:06", "18:42"]
+        }
+      ]
+    },
+    "Route 5": {
+      "route": [
+        {
+          "stop_name": "Sir Thomas Street, The Metquarter",
+          "times": ["06:33", "06:46", "06:56", "07:06", "07:16"]
+        },
+        {
+          "stop_name": "Scotland Road, Leeds Street",
+          "times": ["06:36", "06:49", "06:59", "07:09", "07:19"]
+        },
+        {
+          "stop_name": "Scotland Road, Westmorland Place",
+          "times": ["06:38", "06:51", "07:01", "07:11", "07:22"]
+        },
+        {
+          "stop_name": "Stanley Road, Major Street",
+          "times": ["06:39", "06:52", "07:02", "07:13", "07:23"]
+        },
+        {
+          "stop_name": "Stanley Road, Pansy Street",
+          "times": ["06:41", "06:54", "07:04", "07:15", "07:25"]
+        },
+        {
+          "stop_name": "Stanley Road, Trinity Road",
+          "times": ["06:46", "06:59", "07:09", "07:20", "07:31"]
+        },
+        {
+          "stop_name": "Stanley Road, Knowsley Road",
+          "times": ["06:48", "07:01", "07:11", "07:22", "07:33"]
+        },
+        {
+          "stop_name": "Lincare Lane, Thornton Road",
+          "times": ["06:50", "07:03", "07:14", "07:25", "07:36"]
+        },
+        {
+          "stop_name": "Sefton Road, Mitchell Crescent",
+          "times": ["07:00", "07:09", "07:24", "07:33", "07:47"]
+        },
+        {
+          "stop_name": "Gorsey Lane, Randall Drive",
+          "times": ["07:03", "07:11", "07:27", "07:36", "07:50"]
+        },
+        {
+          "stop_name": "Glovers Lane, Magdalane Square",
+          "times": ["07:09", "07:16", "07:33", "07:43", "07:57"]
+        }
+      ]
+    }
+  }
+}

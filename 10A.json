@@ -1,0 +1,32 @@
+{
+  "route": [
+    {
+      "stop_name": "Liverpool One Bus Station",
+      "times": ["06:40", "08:09", "09:47", "12:41", "16:28"]
+    },
+    {
+      "stop_name": "Kensington, Low Hill",
+      "times": ["06:51", "08:23", "10:01", "12:58", "16:46"]
+    },
+    {
+      "stop_name": "Prescott Road, Swan Street",
+      "times": ["06:59", "08:34", "10:11", "13:08", "16:59"]
+    },
+    {
+      "stop_name": "Liverpool Road, Terminus Road",
+      "times": ["07:13", "08:48", "10:25", "13:23", "17:15"]
+    },
+    {
+      "stop_name": "Liverpool Road, Mitchell Road",
+      "times": ["07:19", "08:55", "10:32", "13:30", "17:23"]
+    },
+    {
+      "stop_name": "Nutgrove Road, Foxwood",
+      "times": ["07:35", "09:14", "10:48", "13:47", "17:41"]
+    },
+    {
+      "stop_name": "Corporation Street, Hall Street",
+      "times": ["07:46", "09:27", "11:01", "14:00", "17:55"]
+    }
+  ]
+}
