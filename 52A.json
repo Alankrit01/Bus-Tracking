@@ -1,0 +1,48 @@
+{
+  "route": [
+    {
+      "stop_name": "Sir Thomas Street, The Metquarter",
+      "times": ["06:33", "06:46", "06:56", "07:06", "07:16"]
+    },
+    {
+      "stop_name": "Scotland Road, Leeds Street",
+      "times": ["06:36", "06:49", "06:59", "07:09", "07:19"]
+    },
+    {
+      "stop_name": "Scotland Road, Westmorland Place",
+      "times": ["06:38", "06:51", "07:01", "07:11", "07:22"]
+    },
+    {
+      "stop_name": "Stanley Road, Major Street",
+      "times": ["06:39", "06:52", "07:02", "07:13", "07:23"]
+    },
+    {
+      "stop_name": "Stanley Road, Pansy Street",
+      "times": ["06:41", "06:54", "07:04", "07:15", "07:25"]
+    },
+    {
+      "stop_name": "Stanley Road, Trinity Road",
+      "times": ["06:46", "06:59", "07:09", "07:20", "07:31"]
+    },
+    {
+      "stop_name": "Stanley Road, Knowsley Road",
+      "times": ["06:48", "07:01", "07:11", "07:22", "07:33"]
+    },
+    {
+      "stop_name": "Lincare Lane, Thornton Road",
+      "times": ["06:50", "07:03", "07:14", "07:25", "07:36"]
+    },
+    {
+      "stop_name": "Sefton Road, Mitchell Crescent",
+      "times": ["07:00", "07:09", "07:24", "07:33", "07:47"]
+    },
+    {
+      "stop_name": "Gorsey Lane, Randall Drive",
+      "times": ["07:03", "07:11", "07:27", "07:36", "07:50"]
+    },
+    {
+      "stop_name": "Glovers Lane, Magdalane Square",
+      "times": ["07:09", "07:16", "07:33", "07:43", "07:57"]
+    }
+  ]
+}
